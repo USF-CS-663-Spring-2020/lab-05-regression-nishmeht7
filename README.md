@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: Nishant Mehta
+**USF email address**: nmehta6@usfca.edu
